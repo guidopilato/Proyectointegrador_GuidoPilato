@@ -1,3 +1,41 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.2em;
+}
+.redes{
+    margin-right: 0.5em;
+    text-align: center;
+}
 #logoAP{
-    width:150px;
+    width: 200px;
+}
+img{
+    width: 40px;
+}
+
+/*Vista de celular*/
+@media(max-width: 575px){
+    .container{
+        flex-direction: column;
+        display: flex;
+    }
+    .redes{
+        display: flex;
+    }
+
+}
+/*Vista de celular*/
+@media(max-width: 339px){
+    .row{
+        flex-direction: column;
+        display: flex;
+
+    }
+    .redes{
+        flex-direction: column-reverse;
+        align-content: space-between;
+        align-items: center;
+    }
 }

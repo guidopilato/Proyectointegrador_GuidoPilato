@@ -13,12 +13,11 @@ div{
 va a respoder de la siguiente manera*/
 @media (min-width: 576px){
     #fotodeperfil{
-        position: absolute;
-        width: 15%;
+
+        width: 90%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top: 600px;
     }
 }
     /*media querys*/
@@ -26,17 +25,14 @@ va a respoder de la siguiente manera*/
 va a respoder de la siguiente manera*/
     @media (max-width: 575px){
         #fotodeperfil{
-            position: absolute;
             width: 30%;
-            border-radius: 100%;
+            border-radius: 100%; /*redondea la imagen*/
             box-shadow: 3px 3px 3px grey;
-            left: 33%;
-            top: 630px;
         }
 }
 
 /*Etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 0.1em;
 }
