@@ -6,6 +6,6 @@ Podés encontrar la app completa en https://frontendguidopilato.web.app/
 Podés encontrar el frontend en : https://frontendguidopilato.web.app/
 
 # El Backend : 
-Podés encontrar el frontend en : https://backendguidopilato.herokuapp.com/
+Podés encontrar el Backend en : https://backendguidopilato.herokuapp.com/
 
 
