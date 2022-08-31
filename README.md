@@ -26,11 +26,11 @@ En este repositorio se encuentra todo lo relacionado al **Frontend** del proyect
 <br>
 3. Es posible ingresar de manera pública en los botones de las redes sociales que se encuentran en la barra de navegación, 
 <div align="center">
-  <"https://github.com/guidopilato/Proyectointegrador_GuidoPilato_FrontEnd/blob/main/Redes.png">
+  <img src="https://github.com/guidopilato/Proyectointegrador_GuidoPilato_FrontEnd/blob/main/Redes.png">
 </div>
 <br>
 
-## ⌨🖱 Instalación
+## Instalación
 - Si se desea correr la aplicación en un entorno local es necesario tener en cuenta lo siguiente: 
 
 1. Clonar el repositorio utilizando GIT o descargando el archivo ZIP:
